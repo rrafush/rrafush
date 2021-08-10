@@ -3,11 +3,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-design.rafaelamartins@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:design.rafaelamartins@gmail.com)](mailto:design.rafaelamartins@gmail.com)
 
 ## Olá mundo! 👋, 
-Sou Rafaela Martins, estudante de desenvolvimento front-end 💻 e apaixonada por aprender coisas novas e me desenvolver. Também me aventuro no mundo do design gráfico e ilustração! 🎨
+Sou Rafaela Martins, estudante de desenvolvimento mobile 💻 e apaixonada por aprender coisas novas e me desenvolver. Também me aventuro no mundo do UI design e ilustração! 🎨
 
-- 🔭 Atualmente eu estou trabalhando com desenvolvimento de sites!
-- 🌱 Estou aprendendo JavaScript
+- 🔭 Atualmente eu estou trabalhando como estagiária em desenvolvimento mobile com Flutter
+- 🌱 Estou aprendendo Flutter e Dart
 - 💬 Amo falar sobre: tecnologia, música e animes
--  ⚡ Linguagens: HTML, CSS, JavaScript
+-  ⚡ Linguagens: HTML, CSS, JavaScript, Dart
 
 <img src="https://i.giphy.com/eDDrmbtY0aSAII8ffT.gif" width="400" height="auto" />
