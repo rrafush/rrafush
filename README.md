@@ -27,6 +27,8 @@ Currently pursuing my technology degree in system analysis and development, and 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Entendendo o null safety](https://dev.to/rrafush/entendendo-o-null-safety-437k)
+- [Coloque a mão na massa o quanto antes, padawan!](https://dev.to/rrafush/coloque-a-mao-na-massa-o-quanto-antes-padawan-2f02)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
