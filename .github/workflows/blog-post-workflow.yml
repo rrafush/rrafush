@@ -1,5 +1,6 @@
 name: Latest blog post workflow
 on: 
+    push:
     schedule:
         - cron: '0 * * * *'
 jobs: 
