@@ -15,7 +15,7 @@ I like to think that coding is a super power that allows us to create experience
 
 Currently pursuing my technology degree in system analysis and development, and working at [Colab]('https://colab.re') with Flutter and dart, I feel happy and motivated when I learn something new and when challenged.
 
-- 🔭 I’m currently working on **my todo app with tdd and clean arch.**
+- 🔭 I’m currently working on **my todo app with TDD and MVVM.**
 
 - 🌱 I’m currently learning **bloc, testing, clean architecture and design pattens.**
 
