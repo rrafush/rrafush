@@ -13,7 +13,7 @@
 
 I like to think that coding is a super power that allows us to create experiences and bring ideas to life. Building technology is participating actively in the creation of the future we dream about.
 
-Currently pursuing my technology degree in system analysis and development, and working at [Colab](https://colab.re) with Flutter and dart, I feel happy and motivated when I learn something new and when challenged.
+Currently pursuing my technology degree in system analysis and development, and working at [Revelo](https://www.revelo.com.br/) with Flutter and dart, I feel happy and motivated when I learn something new and when challenged.
 
 - 🔭 I’m currently working on **my todo app with TDD and MVVM.**
 
