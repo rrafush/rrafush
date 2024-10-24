@@ -5,7 +5,7 @@
 
 <h4 align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-rafush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafush/)](https://www.linkedin.com/in/rafush/) [![Dev.to Badge](https://img.shields.io/badge/-@rrafush-03a57a?style=flat-square&labelColor=000000&logo=dev.to&link=https://dev.to/rrafush)](https://dev.to/rrafush) [![Gmail Badge](https://img.shields.io/badge/-design.rafaelamartins@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:design.rafaelamartins@gmail.com)](mailto:design.rafaelamartins@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@rrafush-blue?style=flat-square&logo=Twitter&logoColor=white&link=mailto:design.rafaelamartins@gmail.com)](https://twitter.com/rrafush)
+[![Linkedin Badge](https://img.shields.io/badge/-rafush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafush/)](https://www.linkedin.com/in/rafush/) [![Dev.to Badge](https://img.shields.io/badge/-@rrafush-03a57a?style=flat-square&labelColor=000000&logo=dev.to&link=https://dev.to/rrafush)](https://dev.to/rrafush) [![Gmail Badge](https://img.shields.io/badge/-dev.rafaelamartins@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.rafaelamartins@gmail.com)](mailto:dev.rafaelamartins@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@rrafush-blue?style=flat-square&logo=Twitter&logoColor=white&link=mailto:design.rafaelamartins@gmail.com)](https://twitter.com/rrafush)
 
 </h4>
 
